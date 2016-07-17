@@ -1,0 +1,3 @@
+[submodule "vgm-js"]
+	path = vgm-js
+	url = https://github.com/netherbox/vgm-js.git
