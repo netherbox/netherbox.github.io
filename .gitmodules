@@ -1,3 +1,6 @@
 [submodule "vgm-js"]
 	path = vgm-js
 	url = https://github.com/netherbox/vgm-js.git
+[submodule "space-duel-js"]
+	path = space-duel-js
+	url = https://github.com/netherbox/space-duel-js.git
